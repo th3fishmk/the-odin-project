@@ -10,17 +10,26 @@ As simple as that!
 
 ## Where are the projects?
 
-All my learning (web) repos have been moved to [this organization](https://github.com/fish-devs-web) in order to keep things organized and simple. I figure organizations are something similar to folders or directories in which we can have repos. So I decided to use this function.
+In [my github profile (link)](https://github.com/th3fishmk), all the odin repositories start with the `odin-` prefix. Here you can find an almost complete list of the projects I've created
 
-I named the organization [fish-devs-web](https://github.com/fish-devs-web) because I din't have any other idea, and it is pretty descriptive...
+HTML only
 
-Name | code | live
---| -- | --
-Recipes | [repo](https://github.com/fish-devs-web/recipes) | [live preview](https://fish-devs-web.github.io/recipes/)
-Etch a sketch | [repo](https://github.com/fish-devs-web/etch-a-sketch) | [live preview](https://fish-devs-web.github.io/etch-a-sketch/)
-Calculator | [repo](https://github.com/fish-devs-web/calc) | [live preview](https://th3fishmk.github.io/odin-calc/)
-Form | [repo](https://github.com/fish-devs-web/forms) | [live preview](https://fish-devs-web.github.io/forms/)
+| Name          | Status      | Source                                                  | Preview                                                    |
+| ------------- | ----------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| Calculator    | finished    | [repo](https://github.com/th3fishmk/odin-calculator)    | [preview](https://th3fishmk.github.io/odin-calculator/)    |
+| Dashboard     | finished    | [repo](https://github.com/th3fishmk/odin-dashboard)     | [preview](https://th3fishmk.github.io/odin-dashboard/)     |
+| Etch a sketch | finished    | [repo](https://github.com/th3fishmk/odin-etch-a-sketch) | [preview](https://th3fishmk.github.io/odin-etch-a-sketch/) |
+| Forms         | finished    | [repo](https://github.com/th3fishmk/odin-forms)         | [preview](https://th3fishmk.github.io/odin-forms/)         |
+| Library       | finished    | [repo](https://github.com/th3fishmk/odin-library)       | [preview](https://th3fishmk.github.io/odin-library/)       |
+| Recipes       | finished    | [repo](https://github.com/th3fishmk/odin-recipes)       | [preview](https://th3fishmk.github.io/odin-recipes/)       |
+| Tic Tac Toe   | finished    | [repo](https://github.com/th3fishmk/odin-tictactoe)     | [preview](https://th3fishmk.github.io/odin-tictactoe/)     |
+| Valid Forms   | finished    | [repo](https://github.com/th3fishmk/odin-valid-forms)   | [preview](https://th3fishmk.github.io/odin-valid-forms/)   |
+| Weather-app   | finished    | [repo](https://github.com/th3fishmk/odin-weather-app)   | [preview](https://th3fishmk.github.io/odin-weather-app/)   |
+| Restaurant    | un-finished | [repo](https://github.com/th3fishmk/odin-restaurant)    | [preview](https://th3fishmk.github.io/odin-restaurant/)    |
+| Todo          | un-finished | [repo](https://github.com/th3fishmk/odin-todo)          | [preview](https://th3fishmk.github.io/odin-todo/)          |
+| Todoer        | un-finished | [repo](https://github.com/th3fishmk/odin-todoer)        | [preview](https://th3fishmk.github.io/odin-todoer/)        |
 
-**This may not be complete list** so please check the [entire repo list](https://github.com/orgs/fish-devs-web/repositories) of  [fish-devs-web](https://github.com/fish-devs-web) to check for any new repo
+**This may not be complete list**, but I'll try to keep an updated list
 
-> Said organization may contain repos for other solutions or practice projects outside TOP.
+Some projects are missing because I didn't consider them good enough to publish them (bad take i know), or I just lost them for some other mysterious reason.
+
